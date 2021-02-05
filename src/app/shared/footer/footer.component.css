@@ -1,0 +1,42 @@
+
+.footer {
+  background-color: rgb(34, 53, 111);
+  margin-top: 7%;
+}
+
+.footer_menu {
+  display: flex;
+  justify-content: space-between;
+  padding: 3% 10%;
+}
+
+.footer a {
+  color: white;
+}
+
+.footer a.logo {
+  font-size: 24px;
+  font-weight: bold;
+  margin-right: 7%;
+}
+
+.footer a.facebook {
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: 7%;
+}
+
+.footer a.menu_item {
+  margin: auto;
+  font-size: 16px;
+}
+
+.footer a.site {
+  color: #abaaaa;
+  font-size: 16px;
+  margin-left: 14%;
+}
+
+.footer a.ads {
+  font-size: 16px;
+}

@@ -1,0 +1,100 @@
+.building-header {
+  width: 100%;
+  margin: auto;
+  position: relative;
+  display: flex;
+}
+
+.building-header img {
+  width: 100%;
+}
+
+.header-text {
+  position: absolute;
+  top: 45%;
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+  color: white;
+  width: 70%;
+  font-size: 42px;
+}
+
+.aboutas-title {
+  margin-top: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
+  display: flex;
+}
+
+.aboutas-title h2 {
+  margin: 0;
+}
+
+.aboutas-title p {
+  margin-left: 5%;
+}
+
+
+.values {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 10%;
+}
+
+.boasting-table tr td {
+  text-align: left;
+  height: 100%;
+  vertical-align: top;
+  display: inline-block;
+  padding-right: 2%;
+  width: 31%;
+}
+
+.boasting-table p {
+  margin: 10% 0;
+}
+
+.boasting-table h1 {
+  font-size: 56px;
+  margin-bottom: 5%;
+}
+
+.hl {
+  border-bottom: 1px solid rgb(34, 53, 111);
+  width: 30%;
+}
+
+.block-title {
+  margin-left: 10%;
+  margin-top: 10%;
+}
+
+.big_news {
+  height: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 10%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.big_news div {
+  padding-left: 3%;
+}
+
+.big_news h1 {
+  margin-top: 0;
+}
+
+.foto {
+  height: auto;
+  width: 50%;
+}
+
+.news_img_arrow {
+  margin-top: 5%;
+  text-align: end;
+  height: 15px;
+  width: 10%;
+}

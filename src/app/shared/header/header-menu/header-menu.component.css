@@ -1,0 +1,54 @@
+.wrapper {
+  width: 100%;
+  margin: auto;
+  position: relative;
+  display: flex;
+}
+
+.header {
+  position: fixed;
+  width: 100%;
+  max-width: 1024px;
+  background-color: rgb(34, 53, 111);
+  padding-top: 14px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid rgba(255, 255, 255, .2);
+}
+
+.header a {
+  float: left;
+  color: #fff;
+  text-align: center;
+  padding: 12px;
+  font-size: 18px;
+  line-height: 25px;
+}
+
+.header a.logo {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.header a.next-for-logo {
+  font-size: 14px;
+  padding: 6px 10px;
+  text-align: left;
+  align-content: center;
+  line-height: 20px;
+}
+
+.header a.language {
+  padding: 12px 4px;
+  margin-right: 0;
+  font-weight: bold;
+}
+
+.header a.secondary{
+  color: #abaaaa;
+}
+
+.header-right {
+  float: right;
+}
+
+

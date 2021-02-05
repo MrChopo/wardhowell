@@ -1,0 +1,39 @@
+.header {
+  display: flex;
+}
+
+.bread {
+  margin-left: 10%;
+  margin-top: 10%;
+}
+
+.title {
+  margin-left: 10%;
+  margin-top: 5%;
+}
+
+.big_news {
+  height: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.big_news div {
+  background-color: rgb(243, 241, 242);
+  padding-top: 3%;
+  padding-left: 3%;
+}
+.foto {
+  height: auto;
+  width: 50%;
+}
+
+.news_img_arrow {
+  margin-top: 5%;
+  text-align: end;
+  height: 15px;
+  width: 10%;
+}
+

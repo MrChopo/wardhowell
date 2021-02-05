@@ -1,0 +1,23 @@
+.peoples {
+  width: auto;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 2%;
+}
+
+.people {
+  height: 100%;
+  width: 22%;
+}
+
+.people_img {
+  width: 100%;
+}
+
+.people_img_arrow {
+  margin-top: 5%;
+  height: 15px;
+  width: 10%;
+}

@@ -1,0 +1,25 @@
+
+.main-menu {
+  width: auto;
+  height: 10%;
+  background-color: rgb(34, 53, 111);
+  padding: 2% 0;
+}
+
+.main-menu ul {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.main-menu ul li {
+  text-align: center;
+  height: 100%;
+  color: white;
+  vertical-align: middle;
+  display: inline-block;
+  width: 19%;
+}
+
+.main-menu ul li:hover {
+  background-color: rgb(101, 115, 154);
+}

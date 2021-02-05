@@ -1,0 +1,23 @@
+.news_array {
+  width: auto;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 4%;
+}
+
+.news {
+  height: 100%;
+  width: 30%;
+}
+
+.news_img {
+  width: 100%;
+}
+
+.news_img_arrow {
+  margin-top: 5%;
+  height: 15px;
+  width: 10%;
+}

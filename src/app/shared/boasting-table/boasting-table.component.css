@@ -1,0 +1,23 @@
+
+.boasting-table {
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.boasting-table tr td {
+  text-align: left;
+  height: 100%;
+  vertical-align: top;
+  display: inline-block;
+  padding-right: 2%;
+  width: 22%;
+}
+
+.boasting-table p {
+  margin: 10% 0;
+}
+
+.boasting-table h1 {
+  font-size: 56px;
+}

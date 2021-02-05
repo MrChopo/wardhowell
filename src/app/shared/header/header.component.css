@@ -1,0 +1,103 @@
+.wrapper {
+  width: 100%;
+  margin: auto;
+  position: relative;
+  display: flex;
+}
+
+.header {
+  position: fixed;
+  width: 80%;
+  background-color: rgba(0, 0, 0, 0);
+  padding: 14px 10% 14px 10%;
+  border-bottom: 1px solid rgba(255, 255, 255, .2);
+}
+
+.header a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 12px;
+  font-size: 18px;
+  line-height: 25px;
+}
+
+.header a.logo {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.header a.next-for-logo {
+  font-size: 14px;
+  padding: 6px 10px;
+  text-align: left;
+  align-content: center;
+  line-height: 20px;
+}
+
+.header a.language {
+  padding: 12px 4px;
+  margin-right: 0;
+  font-weight: bold;
+}
+
+.header a.secondary{
+  color: #abaaaa;
+}
+
+.header-right {
+  float: right;
+}
+
+.header-right a {
+  margin-right: 20px;
+}
+
+.background-video {
+  width: 100%;
+}
+
+.scroll-header {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+}
+
+.prev, .next {
+  width: auto;
+  color: white;
+  font-size: 42px;
+}
+
+.next {
+  float: right;
+  margin-right: 5%;
+}
+
+.prev {
+  float: left;
+  margin-left: 5%;
+}
+
+
+.header-text {
+  text-align: center;
+  float: top;
+  margin: auto;
+  color: white;
+  width: 70%;
+  font-size: 42px;
+}
+
+.header-button {
+  display: block;
+  margin-top: 2%;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  font-size: 16px;
+  width: 22%;
+  height: 50px;
+  border: 0;
+  background-color: rgb(34, 53, 111);
+}
