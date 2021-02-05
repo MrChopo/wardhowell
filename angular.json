@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "wardhowell"
+  "defaultProject": "wardhowell",
+  "cli": {
+    "analytics": false
+  }
 }
