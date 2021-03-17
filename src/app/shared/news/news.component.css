@@ -12,6 +12,10 @@
   width: 30%;
 }
 
+.news h2 {
+  min-height: 5.5rem;
+}
+
 .news_img {
   width: 100%;
 }

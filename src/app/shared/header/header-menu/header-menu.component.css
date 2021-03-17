@@ -8,11 +8,16 @@
 .header {
   position: fixed;
   width: 100%;
-  max-width: 1024px;
   background-color: rgb(34, 53, 111);
   padding-top: 14px;
   padding-bottom: 14px;
   border-bottom: 1px solid rgba(255, 255, 255, .2);
+  z-index: 1;
+}
+
+.header-menu {
+  max-width: 1024px;
+  margin: auto;
 }
 
 .header a {

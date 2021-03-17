@@ -21,3 +21,8 @@ div.horizontal_line {
   background-color: grey;
   height: 1px;
 }
+
+.main-wrapper {
+  max-width: 1024px;
+  margin: auto;
+}
